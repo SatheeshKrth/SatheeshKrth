@@ -2,8 +2,6 @@
 
 Senior Technical Lead / Software Engineer designing and delivering secure, scalable enterprise systems using .NET and cloud-native architectures. Experienced in integrating complex platforms, enabling long-term architectural options, and aligning technical solutions with business outcomes.
 
----
-
 ## What I Do Best
 
 - Design scalable architectures (MVC, Microservices, Event-driven systems)
@@ -12,8 +10,6 @@ Senior Technical Lead / Software Engineer designing and delivering secure, scala
 - Implement robust logging and observability (log4net, Serilog, structured logging)
 - Create automated tests (Playwright, xUnit, E2E and accessibility testing)
 - Lead teams, mentor engineers, and translate business needs into technical solutions
-
----
 
 ## Tech Stack
 
@@ -43,8 +39,6 @@ Senior Technical Lead / Software Engineer designing and delivering secure, scala
 - Java and Spring Boot
 - DB2, SQL Server
 
----
-
 ## Featured Repositories
 
 Examples of projects you’ll find in my GitHub:
@@ -56,21 +50,12 @@ Examples of projects you’ll find in my GitHub:
 
 Each repository includes documentation covering setup steps and design decisions.
 
----
-
 ## Current Focus
 
 - Applying AI in enterprise software development
 - Improving developer productivity and observability
 - Strengthening cloud and security best practices
 - Mentoring engineers toward Tech Lead and Architect roles
-
----
-
-- LinkedIn: https://www.linkedin.com/in/satheeshkumar-k-53593b9/
-
-
----
 
 ## About Me
 
