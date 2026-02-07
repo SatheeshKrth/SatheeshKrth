@@ -1,6 +1,6 @@
 # Satheesh Karthik
 
-Senior Technical Lead / Software Engineer with 20+ years of experience building scalable, secure, and maintainable enterprise applications. I specialize in .NET, cloud-native architectures, Salesforce integrations, and modern web applications, with a strong focus on clean code, observability, and option-enabling design.
+Senior Technical Lead / Software Engineer designing and delivering secure, scalable enterprise systems using .NET and cloud-native architectures. Experienced in integrating complex platforms, enabling long-term architectural options, and aligning technical solutions with business outcomes.
 
 ---
 
