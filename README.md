@@ -1,4 +1,4 @@
-# Hi, I’m Satheesh Kumar (S K)
+# Satheesh Karthik
 
 Senior Technical Lead / Software Engineer with 20+ years of experience building scalable, secure, and maintainable enterprise applications. I specialize in .NET, cloud-native architectures, Salesforce integrations, and modern web applications, with a strong focus on clean code, observability, and option-enabling design.
 
