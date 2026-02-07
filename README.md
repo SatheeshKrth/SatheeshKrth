@@ -1,4 +1,4 @@
-# Satheesh Karthik
+# Satheesh K
 
 Senior Technical Lead / Software Engineer designing and delivering secure, scalable enterprise systems using .NET and cloud-native architectures. Experienced in integrating complex platforms, enabling long-term architectural options, and aligning technical solutions with business outcomes.
 
