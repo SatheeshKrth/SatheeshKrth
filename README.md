@@ -67,11 +67,8 @@ Each repository includes documentation covering setup steps and design decisions
 
 ---
 
-## Let’s Connect
-
 - LinkedIn: https://www.linkedin.com/in/satheeshkumar-k-53593b9/
-- GitHub: https://github.com/<your-username>
-- Location: United States
+
 
 ---
 
